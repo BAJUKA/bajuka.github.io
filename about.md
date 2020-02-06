@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi! I am Shravan Nayak, currently a 3rd year Electronics Engineering student at IIT(BHU) Varanasi. I am broadly interested in the areas of Natural Language Processing and Reinforcement Learning. My long term research goals involve building an environment that makes it possible for everyone to interact with computers via natural spoken language and developing intelligent systems that can learn to make decisions in complex environments. To know more about the work that I have done checkout my [resume]().
+Hi! I am Shravan Nayak, currently a 3rd year Electronics Engineering student at IIT(BHU) Varanasi. I am broadly interested in the areas of Natural Language Processing and Reinforcement Learning. My long term research goals involve building an environment that makes it possible for everyone to interact with computers via natural spoken language and developing intelligent systems that can learn to make decisions in complex environments.
 
 ### More Information
 
