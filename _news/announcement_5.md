@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 <!-- A simple inline announcement with Markdown emoji! :sparkles: :smile: -->
-Got admission into masters programs of CMU, Mila, Columbia and JHU. Decided to pursue CS research masters at Mila with full funding under [Prof. Aishwara Agrawal](https://www.iro.umontreal.ca/~agrawal/).
+Got admission into masters programs of [CMU](https://miis.cs.cmu.edu/), [Mila](https://mila.quebec/en/), [Columbia](https://www.cs.columbia.edu/) and [JHU](https://www.cs.jhu.edu/academic-programs/graduate-studies/mse-programs/). Decided to pursue CS research masters at Mila with full funding under [Prof. Aishwara Agrawal](https://www.iro.umontreal.ca/~agrawal/).
