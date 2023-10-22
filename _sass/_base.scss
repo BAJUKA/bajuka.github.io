@@ -996,3 +996,8 @@ nav[data-toggle="toc"] {
     }
   }
 }
+
+span.font-weight-bold-custom {
+  font-weight: bold;
+  color: var(--global-theme-color);
+}
