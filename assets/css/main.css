@@ -913,6 +913,11 @@ nav[data-toggle=toc] .nav-link.active:hover {
   color: var(--global-danger-block-title);
 }
 
+span.font-weight-bold-custom {
+  font-weight: bold;
+  color: var(--global-theme-color);
+}
+
 /*******************************************************************************
  * Style overrides for distill blog posts.
  ******************************************************************************/
