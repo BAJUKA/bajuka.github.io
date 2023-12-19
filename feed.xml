@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://bajuka.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://bajuka.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-12-08T05:32:25+00:00</updated><id>https://bajuka.github.io/feed.xml</id><title type="html">Shravan’s Website</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://bajuka.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://bajuka.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-12-19T03:47:49+00:00</updated><id>https://bajuka.github.io/feed.xml</id><title type="html">Shravan’s Website</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 </subtitle><entry><title type="html">Montreal Munch Map - My Culinary Journey</title><link href="https://bajuka.github.io/blog/2023/food/" rel="alternate" type="text/html" title="Montreal Munch Map - My Culinary Journey" /><published>2023-12-06T21:00:00+00:00</published><updated>2023-12-06T21:00:00+00:00</updated><id>https://bajuka.github.io/blog/2023/food</id><content type="html" xml:base="https://bajuka.github.io/blog/2023/food/"><![CDATA[<p>Montreal, a crossroads of cultures, offers a feast of authentic cuisines from around the globe. There’s no shortage of amazing places to eat here! I’ve recently embarked on a culinary exploration of these diverse flavors and am using this page to track all my delicious discoveries. I am a vegetarian so there will be a vegetarian bias in this page. But my adventures often include various non-vegetarian options, courtesy of my omnivorous friends. This page will reflect a delightful mix of both, capturing the essence of Montreal’s vibrant food scene from a veggie-centric perspective with a sprinkle of everything else.</p>
 
 <h2 id="kinton-ramen">Kinton Ramen</h2>
@@ -89,7 +89,63 @@
 </div>
 <div class="caption">
     Some images I clicked here. I was too impatient to click the others. Had to dig into the awesome food.
-</div>]]></content><author><name></name></author><category term="food" /><category term="food," /><category term="travel" /><summary type="html"><![CDATA[A page for every restaurant I eat at in Montreal!]]></summary></entry><entry><title type="html">Culture shocks in Canada</title><link href="https://bajuka.github.io/blog/2023/culture/" rel="alternate" type="text/html" title="Culture shocks in Canada" /><published>2023-11-08T21:00:00+00:00</published><updated>2023-11-08T21:00:00+00:00</updated><id>https://bajuka.github.io/blog/2023/culture</id><content type="html" xml:base="https://bajuka.github.io/blog/2023/culture/"><![CDATA[<div class="row mt-3">
+</div>
+
+<h2 id="bottega--pizzeria">Bottega | pizzeria</h2>
+<p>I recently had the pleasure of dining at this restaurant, thanks to a dinner party with my lab team. The place, with its amazing ambiance, mainly serves up an array of pizzas and other specials that change daily. But that’s not all - they also offer a scrumptious selection of vegetarian pizzas and pastas. In brief an Italian friend described this place as one of the best pizza places in Montreal so I guess no more comments are needed. I indulged in their Caprese pizza and it was absolutely amazing! The truffle pasta, though a special of the day and somewhat pricey, was soothing but didn’t quite hit the mark for my spice-loving, flavor-seeking palate. And let’s talk about the chocolate gelato - my first time trying it and it was easily one of the best I’ve ever had! Trust me, this place is a must-visit culinary gem in the city!</p>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/food/bottega-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/food/bottega-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/food/bottega-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/food/bottega.jpg" class="img-fluid rounded z-depth-1" width="400" height="400" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="caption">
+    Me and my team with the gelatos, tiramisus and other deserts. Did not have the patience to click other photos XD.
+</div>
+
+<h2 id="cafe-guerrero">Cafe Guerrero</h2>
+<p>This cafe has become a go-to spot for everyone at Mila, where my lab is located. They serve one of the most extraordinary vegetarian salads I’ve ever had the pleasure of tasting. It’s an array of ingredients: crisp lettuce, wholesome grains, a variety of dry fruits, juicy apples, rich feta cheese, and many other elements, all brought together with an incredible dressing oil that simply bursts with flavor. Not only is this salad an explosion of taste, but it’s also surprisingly filling. It usually takes me two sittings to finish it, which is saying something. This bowl is a harmonious blend of healthiness and deliciousness, two qualities that you don’t often find together. I have not eaten anything else here but judging from the line outside this place I feel everything is quite good.</p>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/food/salad-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/food/salad-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/food/salad-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/food/salad.jpg" class="img-fluid rounded z-depth-1" width="300" height="300" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="caption">
+    The photo does not justify how delicious this is.
+</div>
+
+<!-- ## Maison Indian Curry
+
+## 786 Restaurant Halal -->]]></content><author><name></name></author><category term="food" /><category term="food," /><category term="travel" /><summary type="html"><![CDATA[A page for every restaurant I eat at in Montreal!]]></summary></entry><entry><title type="html">Culture shocks in Canada</title><link href="https://bajuka.github.io/blog/2023/culture/" rel="alternate" type="text/html" title="Culture shocks in Canada" /><published>2023-11-08T21:00:00+00:00</published><updated>2023-11-08T21:00:00+00:00</updated><id>https://bajuka.github.io/blog/2023/culture</id><content type="html" xml:base="https://bajuka.github.io/blog/2023/culture/"><![CDATA[<div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0 text-center">
         <figure>
 
