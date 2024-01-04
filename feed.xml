@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://bajuka.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://bajuka.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-12-25T00:40:49+00:00</updated><id>https://bajuka.github.io/feed.xml</id><title type="html">Shravan’s Website</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://bajuka.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://bajuka.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-01-04T07:02:06+00:00</updated><id>https://bajuka.github.io/feed.xml</id><title type="html">Shravan’s Website</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 </subtitle><entry><title type="html">Montreal Munch Map - My Culinary Journey</title><link href="https://bajuka.github.io/blog/2023/food/" rel="alternate" type="text/html" title="Montreal Munch Map - My Culinary Journey" /><published>2023-12-06T21:00:00+00:00</published><updated>2023-12-06T21:00:00+00:00</updated><id>https://bajuka.github.io/blog/2023/food</id><content type="html" xml:base="https://bajuka.github.io/blog/2023/food/"><![CDATA[<p>Montreal, a crossroads of cultures, offers a feast of authentic cuisines from around the globe. There’s no shortage of amazing places to eat here! I’ve recently embarked on a culinary exploration of these diverse flavors and am using this page to track all my delicious discoveries. I am a vegetarian so there will be a vegetarian bias in this page. But my adventures often include various non-vegetarian options, courtesy of my omnivorous friends. This page will reflect a delightful mix of both, capturing the essence of Montreal’s vibrant food scene from a veggie-centric perspective with a sprinkle of everything else.</p>
 
 <h2 id="kinton-ramen">Kinton Ramen</h2>
@@ -787,4 +787,76 @@ tedious and the roti’s I made - 12 of them - got eaten so fast :cry:</p>
 </div>
 <div class="caption">
     Anushka cooks the best pizza's in the world :heart_eyes:. Look at that cheese!! Damn! I was just eating here to be honest :stuck_out_tongue:
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/cooking/corriander-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/cooking/corriander-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/cooking/corriander-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/cooking/corriander.jpg" class="img-fluid rounded z-depth-1" width="300" height="300" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="caption">
+    Wanted to make corriander paratha but ended up buying something that was definitely not corriander. Anyways it turned out great and tasty.
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/cooking/baingan-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/cooking/baingan-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/cooking/baingan-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/cooking/baingan.jpg" class="img-fluid rounded z-depth-1" width="300" height="300" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="caption">
+    Simple and tasty baingan currey (aubergine for more gourmet-ness). Needed some more variety in life XD.
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/cooking/bhindi-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/cooking/bhindi-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/cooking/bhindi-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/cooking/bhindi.jpg" class="img-fluid rounded z-depth-1" width="300" height="300" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="caption">
+    Good old bhindi (We did not make those methi rotis)
 </div>]]></content><author><name></name></author><category term="cooking" /><category term="food" /><summary type="html"><![CDATA[A page for everything I cook!]]></summary></entry></feed>
