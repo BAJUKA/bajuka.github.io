@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Our paper "Towards Adversarially Robust Vision-Language Models: Insights from Design Choices and Prompt Formatting Techniques" got accepted to [TIFA](https://icml-tifa.github.io/) workshop and [NextGenAISafety](https://icml-nextgenaisafety.github.io/) workshop at ICML.
+Our paper ["Towards Adversarially Robust Vision-Language Models: Insights from Design Choices and Prompt Formatting Techniques"](https://openreview.net/pdf?id=fdanH5luEd) got accepted to [TIFA](https://icml-tifa.github.io/) workshop and [NextGenAISafety](https://icml-nextgenaisafety.github.io/) workshop at ICML.
 
