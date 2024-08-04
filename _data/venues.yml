@@ -5,3 +5,7 @@
 "PML4DC":
   url: "https://pml4dc.github.io/iclr2023/"
   color: "#50C878"
+
+"TiFA":
+  url: "https://icml-tifa.github.io/"
+  color: "#50C878"
