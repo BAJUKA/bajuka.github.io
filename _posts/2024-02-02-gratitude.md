@@ -3,8 +3,8 @@ layout: post
 title: It Does Not Take a Lot of Effort to Be Nice!
 date: 2024-02-02 21:00:00
 description: Random thought
-tags: adventure, fun
-categories: Adventure
+tags: random, opinion
+categories: Opinion
 thumbnail: assets/img/gratitude.webp
 ---
 
