@@ -5,7 +5,7 @@ date: 2024-10-5 21:00:00
 description: Night-time adventures around Montreal
 tags: adventure, fun
 categories: Adventures
-thumbnail: assets/img/winter/winter.webp
+thumbnail: assets/img/excursion/beloeil.jpg
 ---
 
 My roommates and I have been going on night drives often, though I'm not exactly sure how they began. It could have been Aayush and Megh's love and longing for driving, my own desire to learn to drive, or maybe just a need to explore more of Montreal. Whatever the reason, what started as a vague idea has become a wonderful habit—renting a car, heading out into the night, having dinner, and discovering new places. Though the reasons might be unclear, the joy of it is undeniable, and I hope it never stops.
