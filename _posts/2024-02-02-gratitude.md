@@ -5,7 +5,7 @@ date: 2024-02-02 21:00:00
 description: Random thought
 tags: random, opinion
 categories: Opinion
-thumbnail: assets/img/gratitude.webp
+thumbnail: assets/img/gratitude.png
 ---
 
 *This is going to be a short post as this was a thought that came to my mind which I felt like writing about.*
