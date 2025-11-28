@@ -11,9 +11,13 @@
 - title: Education
   type: time_table
   contents:
-    - title: Master's in Computer Science
+    - title: PhD in Computer Science
       institution: University of Montreal
-      year: 2023
+      year: 2025 - Present
+      description:
+    - title: Master's in Computer Science (fast-track to PhD)
+      institution: University of Montreal
+      year: 2023 - 2025
       description:
     - title: Bachelor's in Electronics Engineering
       institution: IIT (BHU) Varanasi
@@ -23,6 +27,10 @@
 - title: Experience
   type: time_table
   contents:
+    - title: ServiceNow Research
+      institution: Montreal, Canada
+      year: 2024-2025
+    
     - title: Graduate Research Assistant
       institution: Mila, Quebec AI Institute, Montreal
       year: 2023 - Present
@@ -61,6 +69,12 @@
 - title: Awards and Fellowships
   type: time_table
   contents:
+    - year: 2025
+      items: 
+        - UdeM AI Bourse
+    - year: 2024
+      items: 
+        - Mila EDI Scholarship, UdeM Excellence Scholarship
     - year: 2023
       items: 
         - Full scholarship for Masters in Computer Science at University of Montreal
