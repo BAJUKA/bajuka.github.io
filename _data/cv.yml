@@ -69,8 +69,11 @@
 - title: Awards and Fellowships
   type: time_table
   contents:
+    - year: 2026
+      items:
+        - UdeM AI Bourse, Mila EDI Scholarship
     - year: 2025
-      items: 
+      items:
         - UdeM AI Bourse
     - year: 2024
       items: 

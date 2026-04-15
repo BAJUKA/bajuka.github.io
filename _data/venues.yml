@@ -17,3 +17,17 @@
 "MoFA":
   url: "https://sites.google.com/view/mhf-icml2025"
   color: "#50C878"
+
+"LLA":
+  url: "https://openreview.net/group?id=ICLR.cc/2026/Workshop/LLA"
+  color: "#50C878"
+
+"Re-Align":
+  url: "https://representational-alignment.github.io/2026/"
+  color: "#50C878"
+
+"CAO":
+  color: "#50C878"
+
+"Pre-print":
+  color: "#999999"
