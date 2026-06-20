@@ -33,6 +33,37 @@ body.sticky-bottom-footer {
   }
 }
 
+// Research area cards (about page)
+.research-card {
+  border-left: 4px solid;
+  border-radius: 0 6px 6px 0;
+  padding: 14px 18px;
+  margin-bottom: 1rem;
+  overflow: hidden;
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+
+  &.card-culture {
+    border-color: $purple-color;
+    background-color: rgba($purple-color, 0.05);
+    p strong:first-child { color: $purple-color; font-size: 1.05em; }
+  }
+
+  &.card-agents {
+    border-color: $blue-color;
+    background-color: rgba($blue-color, 0.05);
+    p strong:first-child { color: $blue-color; font-size: 1.05em; }
+  }
+
+  &.card-vlm {
+    border-color: $cyan-color;
+    background-color: rgba($cyan-color, 0.05);
+    p strong:first-child { color: $cyan-color; font-size: 1.05em; }
+  }
+}
+
 // TODO: redefine content layout.
 
 
