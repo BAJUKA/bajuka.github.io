@@ -599,13 +599,74 @@ footer.sticky-bottom {
   margin-bottom: -2rem;
   text-align: right;
 }
+.publications .topic-filter {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+  margin: 1.5rem 0 0.5rem;
+}
+.publications .topic-filter .topic-filter-label {
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--global-text-color-light);
+  margin-right: 0.25rem;
+}
+.publications .topic-filter .topic-pill {
+  padding: 0.3rem 0.85rem;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 999px;
+  background-color: transparent;
+  color: var(--global-text-color);
+  font-size: 0.85rem;
+  line-height: 1.4;
+  cursor: pointer;
+  transition: all 0.15s ease-in-out;
+}
+.publications .topic-filter .topic-pill:hover {
+  border-color: var(--global-theme-color);
+  color: var(--global-theme-color);
+}
+.publications .topic-filter .topic-pill.active {
+  background-color: var(--global-theme-color);
+  border-color: var(--global-theme-color);
+  color: #ffffff;
+}
 .publications ol.bibliography {
   list-style: none;
   padding: 0;
-  margin-top: 0;
+  margin-top: 1.5rem;
+}
+.publications ol.bibliography li.hidden-card {
+  display: none;
 }
 .publications ol.bibliography li {
-  margin-bottom: 1rem;
+  margin-bottom: 1.25rem;
+  padding: 1.4rem 1.6rem;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 12px;
+  background-color: var(--global-card-bg-color);
+  transition: box-shadow 0.2s ease, border-color 0.2s ease;
+}
+.publications ol.bibliography li:hover {
+  border-color: var(--global-theme-color);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.06);
+}
+.publications ol.bibliography li .row {
+  display: flex;
+  flex-direction: column;
+  margin-left: 0;
+  margin-right: 0;
+}
+.publications ol.bibliography li .col-sm-2,
+.publications ol.bibliography li .col-sm-8 {
+  flex: 0 0 auto;
+  width: 100%;
+  max-width: 100%;
+  padding-left: 0;
+  padding-right: 0;
 }
 .publications ol.bibliography li .preview {
   width: 100%;
@@ -613,14 +674,16 @@ footer.sticky-bottom {
   max-width: 200px;
 }
 .publications ol.bibliography li .abbr {
-  height: 2rem;
-  margin-bottom: 0.5rem;
+  height: auto;
+  margin-bottom: 0.6rem;
 }
 .publications ol.bibliography li .abbr abbr {
   display: inline-block;
   background-color: var(--global-theme-color);
-  padding-left: 1rem;
-  padding-right: 1rem;
+  border-radius: 6px;
+  box-shadow: none;
+  padding-left: 0.7rem;
+  padding-right: 0.7rem;
 }
 .publications ol.bibliography li .abbr abbr a {
   color: white;
@@ -632,8 +695,18 @@ footer.sticky-bottom {
   color: var(--global-theme-color) !important;
   border: 1px solid var(--global-theme-color);
 }
+.publications ol.bibliography li .badges {
+  display: none;
+}
 .publications ol.bibliography li .title {
-  font-weight: bolder;
+  font-weight: 700;
+  font-size: 1.05rem;
+  line-height: 1.35;
+  margin-bottom: 0.3rem;
+}
+.publications ol.bibliography li .author {
+  color: var(--global-text-color-light);
+  margin-bottom: 0.2rem;
 }
 .publications ol.bibliography li .author a {
   border-bottom: 1px dashed var(--global-theme-color);
@@ -655,17 +728,24 @@ footer.sticky-bottom {
   color: var(--global-text-color);
   border-bottom: 1px dashed var(--global-text-color);
 }
+.publications ol.bibliography li .links {
+  margin-top: 0.6rem;
+}
 .publications ol.bibliography li .links a.btn {
-  color: var(--global-text-color);
-  border: 1px solid var(--global-text-color);
-  padding-left: 1rem;
-  padding-right: 1rem;
-  padding-top: 0.25rem;
-  padding-bottom: 0.25rem;
+  color: var(--global-theme-color);
+  border: 1px solid var(--global-theme-color);
+  border-radius: 8px;
+  font-weight: 600;
+  padding-left: 0.9rem;
+  padding-right: 0.9rem;
+  padding-top: 0.2rem;
+  padding-bottom: 0.2rem;
   margin-left: 0;
+  margin-right: 0.35rem;
 }
 .publications ol.bibliography li .links a.btn:hover {
-  color: var(--global-theme-color);
+  color: #ffffff;
+  background-color: var(--global-theme-color);
   border-color: var(--global-theme-color);
 }
 .publications ol.bibliography li .badges {
